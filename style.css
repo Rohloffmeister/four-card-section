@@ -47,7 +47,7 @@ p {
   min-width: 200px;
   border-top: 5px solid black;
   box-shadow: 5px 5px 5px 10px rgba(163, 165, 174, 0.15);
-  border-radius: 3%;
+  border-radius: .5rem;
 }
 .panel img {
   position: absolute;
@@ -61,16 +61,16 @@ p {
 }
 
 #supervisor {
-  border-top: 5px solid hsl(180, 62%, 55%);
+  border-top: .5rem solid hsl(180, 62%, 55%);
 }
 #team-builder {
-  border-top: 5px solid hsl(0, 78%, 62%);
+  border-top: .5rem solid hsl(0, 78%, 62%);
 }
 #karma {
-  border-top: 5px solid hsl(34, 97%, 64%);
+  border-top: .5rem solid hsl(34, 97%, 64%);
 }
 #calculator {
-  border-top: 5px solid hsl(212, 86%, 64%);
+  border-top: .5rem solid hsl(212, 86%, 64%);
 }
 @media screen AND (max-width: 790px) {
   .container {
