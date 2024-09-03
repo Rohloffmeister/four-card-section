@@ -21,6 +21,7 @@ p {
 }
 
 .container {
+ 
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -36,7 +37,8 @@ p {
   align-items: center;
   justify-content: center;
 }
-.panel {
+.panel { 
+  background-color: white;
   text-align: left;
   position: relative;
   height: 30vh;
