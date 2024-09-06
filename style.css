@@ -44,6 +44,7 @@ p {
   height: 30vh;
   margin: 3vh;
   width: 20vw;
+  min-height: 250px;
   min-width: 200px;
   border-top: 5px solid black;
   box-shadow: 5px 5px 5px 10px rgba(163, 165, 174, 0.15);
